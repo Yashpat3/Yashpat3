@@ -2,7 +2,6 @@
 - 👀 I’m interested in Data Sciece 
 - 🌱 I’m currently learning coding from zero to work on data science
 - 💞️ I’m looking to collaborate on beginner project and guides
-- 📫 How to reach me Discord:- Minato#8732
 
 <!---
 Yashpat3/Yashpat3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
